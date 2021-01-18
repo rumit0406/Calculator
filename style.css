@@ -1,0 +1,26 @@
+#heading{
+    
+    height: 120px;
+    font-size: large;
+    background-color: black;
+    text-align: center;
+}
+#popu{
+    margin-top: 25px;
+    font-size: 3em;
+    color: whitesmoke;
+}
+#inputAndButtons{
+    background-color:#41B3A3;
+    height: 750px;
+}
+#inputs{
+    margin: 25px;
+   
+}
+.col{
+  margin: 5px 10px;   
+}
+.answer{
+    margin-left: 20px;
+}
